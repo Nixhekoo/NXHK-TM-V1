@@ -16,7 +16,12 @@
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blcoks the file, disable antivirus or allow the file to be downloaded)*
 - Place the Game anywhere you want
-- Play and Enjoy!
+- Play using E and Q.
+```
+E = Destroy
+Q = Flag
+```
+- The game does not currently have winning state.
 
 ## Source Code
 - Click on this: [NXHK TM Release 1.00.cpp](https://github.com/Nixhekoo/NXHK-TM-V1/blob/main/minesweeper.cpp)
