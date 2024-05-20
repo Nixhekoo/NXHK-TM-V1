@@ -16,7 +16,7 @@
 - *(If While trying to run the game Windows Defender blocks the file, click "More Information" and "Run Anyways")*
 - *(If Windows Antivirus blcoks the file, disable antivirus or allow the file to be downloaded)*
 - Place the Game anywhere you want
-- Play using E and Q.
+- Play and Enjoy!
 ```
 E = Destroy
 Q = Flag
