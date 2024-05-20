@@ -19,4 +19,4 @@
 - Play and Enjoy!
 
 ## Source Code
-- Click on this: [NXHK TR Release 1.75.cpp](https://github.com/Nixhekoo/NXHK-TM-V1/raw/main/minesweeper.cpp)
+- Click on this: [NXHK TM Release 1.00.cpp](https://github.com/Nixhekoo/NXHK-TM-V1/raw/main/minesweeper.cpp)
