@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align=center>Nixhekoo's Terminal Minesweeper</h1>
+<h1 align=center>[NOT FINISHED!]Nixhekoo's Terminal Minesweeper</h1>
 • [0] About the Game <br>
 • [1] Instructions <br>
 • [2] Source Code <br>
